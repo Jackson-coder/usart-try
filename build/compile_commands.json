@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/linyihong/usart/build",
+  "command": "/usr/bin/g++-7    -g   -o CMakeFiles/usart.dir/main.cpp.o -c /home/linyihong/usart/main.cpp",
+  "file": "/home/linyihong/usart/main.cpp"
+}
+]
